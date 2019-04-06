@@ -1,0 +1,5 @@
+clip hello 2 2.0 2.0 previous none
+clip world 3 1.0 3.0 next none
+ticks 4
+clip see 4 3.0 2.0 none any
+ticks 30
